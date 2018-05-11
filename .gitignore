@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.env
+mp_env/
+
+#SQLite database files
+*.sqlite3
